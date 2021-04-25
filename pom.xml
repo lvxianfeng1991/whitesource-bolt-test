@@ -27,12 +27,6 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.jetbrains.teamcity.agent</groupId>
-            <artifactId>common</artifactId>
-            <version>${teamcity.version}</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>org.apache.camel</groupId>
             <artifactId>camel-core</artifactId>
             <version>${dependency.camel.version}</version>
