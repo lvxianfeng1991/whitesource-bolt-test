@@ -1,7 +1,8 @@
 {
-  "scanSettings": {
+"scanSettings": {
     "baseBranches": []
   },
+
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
@@ -9,4 +10,6 @@
   "issueSettings": {
     "minSeverityLevel": "LOW"
   }
+
+
 }
